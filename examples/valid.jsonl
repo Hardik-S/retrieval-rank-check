@@ -1,0 +1,3 @@
+{"query":"synthetic alpha","document":"synthetic document a","rank":1}
+{"query":"synthetic alpha","document":"synthetic document b","rank":2}
+{"query":"synthetic beta","document":"synthetic document c","rank":1}
